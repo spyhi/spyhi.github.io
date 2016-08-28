@@ -2,14 +2,14 @@
   "basics": {
     "name": "Ed White",
     "label": "Student",
-    "picture": "https://spyhi.github.io/images/molly.png",
+    "picture": "https://spyhi.github.io/images/EdWebHead_SpyhiGithubIO.jpg",
     "email": "ew7@hawaii.edu",
     "phone": "808-343-1605",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://spyhi.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +17,51 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "spyhi",
+        "url": "http://github.com/spyhi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "spyhi",
+        "url": "http://linkedin.com/in/spyhi"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "spyhi",
+        "url": "http://twitter.com/spyhi"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "spyhi",
+        "url": "http://instagram.com/spyhi"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Tech Entrepreneurship",
       "keywords": [
+        "Business Management",
+        "Lean Startup",
+        "Minimum Viable Product",
+        "Lean Methodology",
+        "Validated Learning",
+        "Innovation Accounting",
+        "Build-Measure-Learn Loop"
+      ]
+    },
+    {
+      "name": "Product Design",
+      "keywords": [
+        "User Experience",
+        "Human-Computer Interaction",
+        "HCI",
+        "Consumer Psychology"
       ]
     }
   ],
