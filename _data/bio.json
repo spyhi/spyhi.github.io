@@ -26,6 +26,11 @@
         "url": "http://linkedin.com/in/spyhi"
       },
       {
+        "network": "facebook",
+        "username": "ispyhi",
+        "url": "https://www.facebook.com/iSpyHI"
+      },
+      {
         "network": "twitter",
         "username": "spyhi",
         "url": "http://twitter.com/spyhi"
@@ -74,99 +79,90 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "mySQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Intellij"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2014-08-25",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.86",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Entrepreneurship (expected Fall, 2018)",
+      "studyType": "B.B.A.",
+      "startDate": "2014-08-25",
+      "endDate": "Present",
+      "gpa": "3.86",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Booz Allen Hamilton",
+      "position": "Geopolitical Analyst",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2012-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "South Asia subject matter expert",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Monitor and catalog IED use in India",
+        "Populate primary database used by the US Pacific Command",
+        "Contribute analysis to internationally-distributred monthly IED update product"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "US Army",
+      "position": "All-Source Analyst",
+      "website": "",
+      "startDate": "2004-06-04",
+      "endDate": "2012-06-04",
+      "summary": "South Asia Analyst",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supervised a team of four analysts creating a daily intelligence summary for the US Army Pacific Commander",
+        "Helped to develop the US Army Pacific India Collection Plan"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Global Game Jam",
+      "website": "http://globalgamejam.org/",
+      "position": "Local Organizer",
+      "startDate": "2013-11-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Producer for Honolulu GGJ events",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Co-led organization for 2016 Honolulu GGJ, the largest in Hawaii's history, in partnership with ACM Manoa and DevLeague",
+        "Helped to ensure skillsets across several disciplines were represented to enable high-quality final games"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Fall 2014",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students with a GPA of 3.5 or higher across 12 or more credits."
     }
   ],
   "references": [
