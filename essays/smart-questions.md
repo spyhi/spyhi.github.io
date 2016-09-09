@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: How Asking Smart Questions Makes Better Software Engineers
-date: 2016-09-01
+date: 2016-09-08
 labels:
   - Software Engineering
   - Critical Thinking
