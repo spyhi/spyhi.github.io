@@ -9,7 +9,7 @@ labels:
   - UI Frameworks
 ---
 
-![Title Card](images/Beautiful-Front-Page-30min.jpg)
+![Title Card](https://github.com/spyhi/spyhi.github.io/blob/master/images/Beautiful-Front-Page-30min.jpg)
 
 No two ways about it: The old web was ugly. Primarily a way of communicating between scientists, and over a low-bandwidth line, the web did not need to be beautiful. This was reflected in the importance placed on HTML styling: The internet was invented in 1983, and made available to the general public in 1991, but the CSS wouldn't be implemented until almost 1997 once the influx of ~~filthy casuals~~ non-technical users had started to explode and websites needed to make their homepages more accommodating. Since then, the relationship between front end, back-end, HTML, CSS, and JS has only grown more complex.
 
@@ -17,7 +17,7 @@ Though I'd hand-coded websites in the Angelfire days, I'd never been seriously i
 
 As part of our software engineering class, I was introduced to [Semantic UI](http://semantic-ui.com/), a plain-English UI framework that takes care of your front-end's JS and CSS heavy lifting. I remember seeing our first exercise, which was essentially recreating the [Island Snow](http://islandsnow.com/) website in Semantic UI...in about 30 minutes. After the pain (and days) of hand-coding my rinky-dink "About Me" page, the concept seemed patently ridiculous. And yet, there was the professor, scratching out some code on a YouTube video and making a beautiful, well-designed, responsive website appear before my eyes. What was this sorcery?
 
-![Semantic Snow](images/experience-islandsnow.png)
+![Semantic Snow](https://github.com/spyhi/spyhi.github.io/blob/master/images/experience-islandsnow.png)
 
 Though I've yet to fully grasp its use, Semantic UI makes front-end development incredibly easy--at least in comparison to manually developing an entire site from scratch using HTML and CSS. And it looks good, too, allowing you to create modern, visually rich websites within minutes.
 
