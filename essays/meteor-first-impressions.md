@@ -2,12 +2,14 @@
 layout: essay
 type: essay
 title: Making the Modern Web with Meteor
-date: 2016-20-06
+date: 2016-10-20
 labels:
   - Meteor
   - Web Development
   - Web Frameworks
 ---
+
+<img class="ui fluid image" src="../images/Meteor-First-Impression-Cover.jpg">
 
 The web continues to evolve quickly, responding to the expectations of end-users for more and more powerful web applications that can compare to native apps on either the desktop or mobile phones. Though in terms of functionality, the web (especially the parts powered by goliaths such as Google and Facebook) has long been able to hold its own against desktop applications. However, they always had one shortcoming--the need to make constant HTTP requests in order to work with any sort of data. Until recently, the average internet speed in the US was only 10 Mbps (that's mega_bits_, not mega_bytes_). Even now, in the age of Netflix-driven growth in bandwidth, the average connection is hovering somewhere between 50-100 Mbps (again, _bits_), which simply can't compare to the 3-6 Gbps (bits) of the average SATA drive, or the 6400 MB/s (bytes here, not bits) of the aging DRR3 RAM standard. AJAX could minimize the amount of data necessary to transfer, but average connection speed still proved to be a major bottleneck compared to native applications.
 
