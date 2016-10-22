@@ -37,7 +37,7 @@ Clay Shirky wrote the book "Cognitive Surplus" in 2010, where he tried to explai
 
 We are planning on working with the sPACE, iLAB (both designed to enable multi-disciplinary projects), and various clubs at UH Manoa in order to get feedback on features they would like and to get support with enrolling students to the application.
 
-Take a look at Clay Shirky's TED talk on Cognitive Surplus:
+*Take a look at Clay Shirky's TED talk on Cognitive Surplus:*
 <div class="ui embed" data-source="youtube" data-id="qu7ZpWecIS8">
 </div>
 
