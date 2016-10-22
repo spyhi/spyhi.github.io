@@ -21,49 +21,55 @@ Guitarists need drummers, web programmers need graphic designers, filmmakers nee
 **The Solution:** Alloy (the team-builder application) is a social network oriented that connects people to projects based on the "skill graph," allowing like-minded people with complementing skills to find each other and work on projects together.
 
 ***Key Features:***
-- Alloy allows students and faculty to create profiles that list their skills, their interests, and their availability/willingness to collaborate.
-- Alloy also allows users to create project proposals with slots for the various skillsets they think the project needs.
-- Users can search for other users or proposals by skill, interest, and availability.
-- Users can set up automatic alerts for projects that fall under their interests, or new users in their area with skills they need.
-- Users can asymmetrically follow other users to keep track of their project proposals.
+<ul>
+<li>Alloy allows students and faculty to create profiles that list their skills, their interests, and their availability/willingness to collaborate.</li>
+<li>Alloy also allows users to create project proposals with slots for the various skillsets they think the project needs.</li>
+<li>Users can search for other users or proposals by skill, interest, and availability.</li>
+<li>Users can set up automatic alerts for projects that fall under their interests, or new users in their area with skills they need.</li>
+<li>Users can asymmetrically follow other users to keep track of their project proposals.</li>
+</ul>
 
 *Other/Basic Features:*
-- Faculty, students, and admins log in with UHid.
-- Admin accounts can monitor site for inappropriate content, enforce Terms of Use, and technically enabled to take appropriate action where necessary.
-- Upon first login, all users must agree to Terms of Use.
+<ul>
+<li>Faculty, students, and admins log in with UHid.</li>
+<li>Admin accounts can monitor site for inappropriate content, enforce Terms of Use, and technically enabled to take appropriate action where necessary.</li>
+<li>Upon first login, all users must agree to Terms of Use.</li>
+</ul>
 
 **Why Will This Work?**
+
 Clay Shirky wrote the book "Cognitive Surplus" in 2010, where he tried to explain the phenomenon of massive user participation and effort into creating content for sites like IcanHazCheezburger. In essence, people in modern society have a lot of spare time and easy access to the tools to create things. Even as adults, many in creative/technical communities seek out opportunities like hackathons and other kinds of jams in order to test crazy ideas that a client would never pay for without proof of concept. My personal experience is that there is a lot of pent up energy that gets released when the right connection is made with the right people and the right idea.
 
 We are planning on working with the sPACE, iLAB (both designed to enable multi-disciplinary projects), and various clubs at UH Manoa in order to get feedback on features they would like and to get support with enrolling students to the application.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 *Take a look at Clay Shirky's TED talk on Cognitive Surplus:*
 <div class="ui embed" data-source="youtube" data-id="qu7ZpWecIS8">
 </div>
 
 
-
 **Mockup Page Ideas:**
-- Public landing Page
-- Login/Signup page
-- User home Page
-- User profile
-- Admin dashboard
-- Search/browse page
+<ul>
+<li>Public landing Page</li>
+<li>Login/Signup page</li>
+<li>User home Page</li>
+<li>User profile</li>
+<li>Admin dashboard</li>
+<li>Search/browse page</li>
+</ul>
 
 **Use Case Ideas:**
-- New user onboarding process. (Goes to landing page, makes account, gets to home page, sets up profile)
-- User goes to landing page, logs in, browses for users and projects to follow/join
-- User creates project and invites other users to join him
-- Admin logs in and goes to admin dashboard to check alerts and edit site
+<ul>
+<li>New user onboarding process. (Goes to landing page, makes account, gets to home page, sets up profile)</li>
+<li>User goes to landing page, logs in, browses for users and projects to follow/join</li>
+<li>User creates project and invites other users to join him</li>
+<li>Admin logs in and goes to admin dashboard to check alerts and edit site</li>
+</ul>
 
 **Beyond the Basics:**
-- Support reviews of users.
-- Pre-populated skill sets based on department data or previous classes taken, depending on data availability.
-- Support creative events, such as hackathons or jam sessions. (RSVP to event, propose ideas, and build teams in advance)
-- Skill tag suggestions based on popular terms, to help create consistency.
-- Skill imports from LinkedIn, Facebook.
+<ul>
+<li>Support reviews of users.</li>
+<li>Pre-populated skill sets based on department data or previous classes taken, depending on data availability.</li>
+<li>Support creative events, such as hackathons or jam sessions. (RSVP to event, propose ideas, and build teams in advance)</li>
+<li>Skill tag suggestions based on popular terms, to help create consistency.</li>
+<li>Skill imports from LinkedIn, Facebook.</li>
+</ul>
