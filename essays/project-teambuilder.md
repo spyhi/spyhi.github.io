@@ -21,11 +21,11 @@ Guitarists need drummers, web programmers need graphic designers, filmmakers nee
 **The Solution:** Alloy (the team-builder application) is a social network oriented that connects people to projects based on the "skill graph," allowing like-minded people with complementing skills to find each other and work on projects together.
 
 ***Key Features:***
-* Alloy allows students and faculty to create profiles that list their skills, their interests, and their availability/willingness to collaborate.
-* Alloy also allows users to create project proposals with slots for the various skillsets they think the project needs.
-* Users can search for other users or proposals by skill, interest, and availability.
-* Users can set up automatic alerts for projects that fall under their interests, or new users in their area with skills they need.
-* Users can asymmetrically follow other users to keep track of their project proposals.
+-Alloy allows students and faculty to create profiles that list their skills, their interests, and their availability/willingness to collaborate.
+-Alloy also allows users to create project proposals with slots for the various skillsets they think the project needs.
+-Users can search for other users or proposals by skill, interest, and availability.
+-Users can set up automatic alerts for projects that fall under their interests, or new users in their area with skills they need.
+-Users can asymmetrically follow other users to keep track of their project proposals.
 
 *Other/Basic Features:*
 - Faculty, students, and admins log in with UHid.
