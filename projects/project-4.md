@@ -28,10 +28,10 @@ One thing I learned is that it's difficult to work in large, highly motivated gr
 
 The project was built in approximately three weeks.
 
-The people who worked with me on the project are:
-* [Timothy Byers](https://byerst.github.io/) (Back end)
-* [Allie Kim](https://alliekim.github.io/) (User Interface)
-* [Neil Teves](https://neilnthings.github.io/) (Search and usability)
-* [Reed Villanueva](https://reedv.github.io/) (Database, API, integration)
+The Alloy team also included:
+- [Timothy Byers](https://byerst.github.io/) (Back end)
+- [Allie Kim](https://alliekim.github.io/) (User Interface)
+- [Neil Teves](https://neilnthings.github.io/) (Search and usability) 
+- [Reed Villanueva](https://reedv.github.io/) (Database, API, integration)
 
 [See the "About Alloy" page to learn more](https://alloyteams.github.io/)
