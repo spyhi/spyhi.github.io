@@ -79,7 +79,12 @@
         "C++",
         "Java",
         "Javascript",
-        "mySQL"
+        "HTML",
+        "CSS",
+        "mySQL",
+        "Mongo",
+        "Meteor",
+        "NodeJS"
       ]
     },
     {
@@ -158,6 +163,18 @@
     }
   ],
   "awards": [
+    {
+      "title": "Beta Gamma Sigma",
+      "date": "Fall 2016",
+      "awarder": "BGS, University of Hawaii at Manoa chapter",
+      "summary": "National honors society recognition of business school seniors in the top 10% of their class."
+    },
+    {
+      "title": "Booz Allen Hamilton Team Service Award",
+      "date": "December 2016",
+      "awarder": "Booz Allen Hamilton",
+      "summary": "Awarded for advancing relations with a key international partner during a Sep 2016 subject matter expert exchange, resulting in a transformation of the client's engagement strategy and producing a year's worth of progress in weeks."
+    },
     {
       "title": "Dean's List",
       "date": "Fall 2014",
