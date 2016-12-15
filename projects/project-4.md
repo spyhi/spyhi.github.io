@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/alloy-project-sqr.png
-title: Alloy: The Team Builder
+title: Alloy
 permalink: projects/alloy
 date: 2016
 labels:
