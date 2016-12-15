@@ -28,7 +28,7 @@ One thing I learned is that it's difficult to work in large, highly motivated gr
 
 The project was built in approximately three weeks.
 
-The Alloy team also included:
+The Alloy team also includes:
 - [Timothy Byers](https://byerst.github.io/) (Back end)
 - [Allie Kim](https://alliekim.github.io/) (User Interface)
 - [Neil Teves](https://neilnthings.github.io/) (Search and usability) 
