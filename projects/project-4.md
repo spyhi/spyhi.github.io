@@ -22,6 +22,10 @@ After conducting user interviews, we identified that recruiting people who were 
 
 Alloy connects people through skills, and is organized around projects. The service uses a "skill graph" that powers our recommendation engine, which serves relevant projects through the user's home page, which means users don't have to make an effort to search for interesting projects, and creators can rest assured that their projects will get seen...featured projects are even shown before a user ever logs in! All this means that Alloy is a frictionless way to find teams.
 
+In addition to coming up with the concept for Alloy and doing the initial user research, my contribution to the project was to help ensure the code and database was structured in a way that was conducive to growth and scaling, such as researching and implementing reusable html components that could be used in various contexts. I also helped design usability concepts, such as pages that change and displays relevant information when the user is logged in or out, which improved usability and reduced the perception of errors or redundant information. I also devised the Alloy branding and color scheme, and tried to ensure there was a consistent design language throughout the application.
+
+One thing I learned is that it's difficult to work in large, highly motivated groups, since the code base is changing rapidly and experiments are often happening all at the same time. If I were to have an opportunity to do this again, I would probably encourage the team to take a more deliberate approach to architecting everything instead of having an explosion of code which is then pared down to more efficient modules. On the flip side, I learned just how much could be accomplished in such a short amount of time, which was much more than I imagined, and I'm lucky to have been able to work with such talented people.
+
 The project was built in approximately three weeks.
 
 The people who worked with me on the project are:
