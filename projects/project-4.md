@@ -30,7 +30,7 @@ The project was built in approximately three weeks.
 
 The Alloy team includes:
 <ul>
-<li><a href="https://byerst.github.io/">Timothy Byers (Back end)</a></li>
+<li><a href="https://byerst.github.io/">Timothy Byers</a> (Back end)</li>
 <li><a href="https://alliekim.github.io/">Allie Kim</a> (User Interface)</li>
 <li><a href="https://neilnthings.github.io/">Neil Teves</a> (Search and usability)</li>
 <li><a href="https://reedv.github.io/">Reed Villanueva</a> (Database, API, integration)</li>
