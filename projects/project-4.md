@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/alloy-project-sqr.png
-title: About Ed
+title: Alloy: The Team Builder
 permalink: projects/AboutEd
 date: 2016
 labels:
