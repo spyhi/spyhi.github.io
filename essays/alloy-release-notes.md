@@ -47,7 +47,14 @@ During these milestones, I focused on the number one request during our user tes
 - Working file type restrictions/S3 security
 - Uploader template (partially built, bug is that it does not recognized logged in user)
 
-# Projected Improvements (March 15th)
+# March 31st
+During this milestone I continued working out bugs in communication between the Alloy application and the AWS S3 server and finished configuring the file storage settings in order to support a single image uploading system that can be used by developers anywhere across the entire site. Now the infrastructure exists for a user to click on a link and bring up a file selection window, or drag-and-drop an image file directly into a landing area, and the application is able to upload images and send them to an AWS server and return a URL that can be inserted into a mongo database entry (such as a user or project entity) and used agnostically across the site. This presented a challenge due to Amazon's security architecture, which was not working well with the settings on the Edgee Slingshot package--in particular the file validation system--but these issues have been resolved.
+
 - Completed image uploading and hosting infrastructure
-- Modifying user and project templates to support images
-- Adding/improving logic to various project suggestion feeds
+
+# April 15th Milestone Projection
+
+- Create different file buckets for different users to avoid collisions
+- Create hashing of filenames for security and to prevent collisions (tentative)
+- Implement image display routines on user profiles and projects
+- Add suggested project logic
