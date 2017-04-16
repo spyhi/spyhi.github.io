@@ -52,9 +52,16 @@ During this milestone I continued working out bugs in communication between the 
 
 - Completed image uploading and hosting infrastructure
 
-# April 15th Milestone Projection
+# April 15th
+
+During this milestone I nearly completed an agnostic image uploader that is able to upload images and write them to a mongo document associated with a given user or project with a single spacebars line, giving designers an easy way to provide a multimedia-rich environment for users. In this milestone I refined earlier work, successfully creating buckets for individual users to reduce the odds of file collisions, and creating login security checks so that only users can upload images to the Amazon S3 fileserver. The uploader was designed to return the image URL if the upload was successful, so it could be written to the database. At this point I ran into difficulty retaining that string to write into an arbitrary database. After some discussion with Professor Johnson, he suggested the images should be written to a dedicated mongo publication and called via a foreign key, in order to facilitate metadata storage and other requirements. The challenge of passing the context back to the calling document remains but, once resolved, images will be fully implemented.
 
 - Create different file buckets for different users to avoid collisions
-- Create hashing of filenames for security and to prevent collisions (tentative)
-- Implement image display routines on user profiles and projects
-- Add suggested project logic
+- Add login security to make sure only logged-in users can upload images
+- Return URL from Amazon S3 for writing to database
+
+# April 30th Milestone Projected
+
+- Finish implementing image uploader
+- Conduct user testing to get live projects
+- Enter simulated information in order to create an idea of how finished app will look and behave
