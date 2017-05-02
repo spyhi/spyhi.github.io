@@ -60,8 +60,14 @@ During this milestone I nearly completed an agnostic image uploader that is able
 - Add login security to make sure only logged-in users can upload images
 - Return URL from Amazon S3 for writing to database
 
-# April 30th Milestone Projected
+# May 1st Milestone
+
+During this milestone I completed the image uploader. On suggestion from Professor Johnson, I opted to create a Mongo collection dedicated to storing the image URLs in order to improve the flexibility of the database, so other database entities can use a foreign key to call the images. Additionally, I added URL verification to the database so that a duplicate image cannot be uploaded and so that only files obtained from amazon web services can be loaded, in order to improve end-user security. Though the image hosting infrastructure is complete, I still haven't figured out how to return generically write the foreign key into any given database entry, such as a profile or project database document.
 
 - Finish implementing image uploader
+
+# May 12th Milestone Projected
+
 - Conduct user testing to get live projects
 - Enter simulated information in order to create an idea of how finished app will look and behave
+- Implement Markdownify (tentative)
